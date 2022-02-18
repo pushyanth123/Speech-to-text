@@ -8,7 +8,6 @@ import sys
 
 
 supported_file_types = ['wav', 'flac', 'aiff']
-supported_conversions = ["mp3", "ogg", "oga"]
 
 
 class FromAudioFile():
